@@ -47,7 +47,7 @@ I am passionate about learning new technologies, experimenting in this field, an
   
   ## ⚙️ **GitHub Stats** ⚙️
   <a href="https://github.com/jjoacoc">
-    <img width=450 height=170 align="center" alt="jjoacoc" src="https://github-readme-stats.vercel.app/api?username=jjoacoc&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="jjoacoc" src="https://github-About-Me-stats.vercel.app/api?username=jjoacoc&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/jjoacoc">
     <img align="center" alt="jjoacoc" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoacoc&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
