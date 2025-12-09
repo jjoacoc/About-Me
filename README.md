@@ -26,6 +26,7 @@ I am passionate about learning new technologies, experimenting in this field, an
   
   - Postman
   - NodeJS
+  - PHP
 
 </div>
 
